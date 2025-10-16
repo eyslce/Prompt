@@ -11,4 +11,3 @@
 ## IO
 - Input: git diff 或改动摘要
 - Output: commit message + PR 描述
-```
